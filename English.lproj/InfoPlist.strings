@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "Anno";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "Anno version 1.0, Copyright (c) 2016 Lucas.";
+NSHumanReadableCopyright = "Copyright (c) 2016 Lucas.";
