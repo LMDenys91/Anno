@@ -12,8 +12,9 @@ Clone the repository and open Anno.xcodeproj in XCode. Build Anno. Under Product
 
 If you want to use the plugin to annotate several patients in one sitting, you need to select all of those patients, and open them all at once. You can do this by double clicking on the top patient, but it doesn't always work. A good way to check if you opened up all patients is looking at the patient browser to see if they are all still selected after the viewer opened up.
 
-![Both Artifix and Obelix must still be selected int the patient browser](screengrabs/browserController.jpg)
+![browserController](screengrabs/browserController.jpg "Both Artifix and Obelix must be selected")
 
+Next, find the Anno plugin under the Plugin menu, and open it. The plugin will either make a new json file that it will start writing annotations to, or continue writing to an old file.
+Use of the plugin should be self explanatory from here on out.
 
-
-The annotations are written to a json file ("~/Desktop/annotations.json"). 
+![viewerController](screengrabs/viewerController.jpg "Have fun annotating!")
