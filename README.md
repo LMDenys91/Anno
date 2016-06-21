@@ -2,7 +2,7 @@
 
 ###OsiriX/Horos plugin to annotate medical imaging studies
 
-This is a [OsiriX](https://github.com/pixmeo)/[Horos](https://github.com/horosproject) plugin that allows you to quickly annotate medical images as normal/abnormal and add comments. The goal of this project was to explore writing plugins for the OsiriX/Horos medical image viewer. I've published a more elaborate writeup in this [blogpost](https://medium.com). Other good resources are available [here](https://osirixpluginbasics.wordpress.com/).
+This is a [OsiriX](https://github.com/pixmeo)/[Horos](https://github.com/horosproject) plugin that allows you to quickly annotate medical images as normal/abnormal and add comments. The goal of this project was to explore writing plugins for the OsiriX/Horos medical image viewer. Other good resources are available [here](https://osirixpluginbasics.wordpress.com/).
 
 ###Usage
 
